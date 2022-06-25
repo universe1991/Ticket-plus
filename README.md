@@ -1,4 +1,4 @@
-# ticket-: Java Web Service Development-Event Search and Ticket Recommendation
+# Ticket+: Java Web Service Development-Event Search and Ticket Recommendation
  - Developed an interactive web page for users to search events and purchase tickets.
  - Improved personalized business recommendation based on search history and favorite records.
  - Created Java servlets with **RESTful** APIs to handle HTTP requests and responses.
@@ -14,4 +14,3 @@
  - Recommendation items based on user's like and location
 
 ## HomePage
- ![](images/homepage.png)
