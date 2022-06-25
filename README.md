@@ -14,3 +14,4 @@
  - Recommendation items based on user's like and location
 
 ## HomePage
+ ![](images/homepage.png)
