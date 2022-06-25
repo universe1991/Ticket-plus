@@ -2,7 +2,7 @@ package db.mysql;
 
 public class MySQLDBUtil {
 	private static final String HOSTNAME = "localhost";
-	private static final String PORT_NUM = "8889"; // change it to your mysql port number. In the testing process, it should be 8889  3306. 
+	private static final String PORT_NUM = "3306"; // change it to your mysql port number. In the testing process, it should be 8889  3306. 
 	public static final String DB_NAME = "recommendation_system";
 	private static final String USERNAME = "root";
 	private static final String PASSWORD = "root";
