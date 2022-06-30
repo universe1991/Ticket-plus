@@ -17,4 +17,4 @@
  ![](images/homepage.png)
  
 ## Website 
- This web pages have already been deployed on the Amazon EC2. You can check it by the [link](http://18.222.248.176:8080/universeplane/ "Title"). 
+ These web pages have already been deployed on the Amazon EC2. You can check it by the [link](http://18.222.248.176:8080/universeplane/ "Title"). 
